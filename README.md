@@ -1,2 +1,1 @@
-# Deep-Learning
-Wavelet Transform-based Convolutional Neural Network (2D-CNN)
+# Wavelet Transform-based Convolutional Neural Network (2D-CNN)
